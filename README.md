@@ -1,2 +1,6 @@
 # ebool.github.io
-blog
+
+
+blog url
+
+https://ebool.github.io
