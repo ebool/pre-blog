@@ -1,0 +1,2 @@
+# ebool.github.io
+blog
