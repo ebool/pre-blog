@@ -49,7 +49,7 @@ categories: 마케팅
 
 > "to be continue..."
 
-다음 글에선 ga에 대해 알아보자.
+다음 글에선 google analytics 에 대해 알아보자.
 
 여러가지 기능이 있는것 같은데 잘 모르니 무용지물이네..
 
